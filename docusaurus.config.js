@@ -60,17 +60,17 @@ const config = {
         defaultMode: 'dark',
       },
       navbar: {
-        title: 'My Site',
+        title: 'Pooldash',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
